@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="FMI_RSA">
+    <serverData>
+      <paths name="FMI_RSA">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$/out/artifacts/RSA_jar" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ats24.fmi.uni-sofia.bg">
+        <serverdata>
+          <mappings>
+            <mapping deploy="\home\u61702" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

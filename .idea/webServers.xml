@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a33ef475-dae8-4c15-9e55-01347df313b7" name="ats24.fmi.uni-sofia.bg" url="http://ats24.rmi.yaht.net">
+        <fileTransfer host="ats24.rmi.yaht.net" port="2222" rootFolder="/home/u61702" accessType="SFTP" password="df9fdfe6dfe9dffedfe9df9bdffd" username="u61702">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="153436d5-b948-414a-a64e-800cdddd62b0" name="FMI_RSA" url="http://ats24.rmi.yaht.net">
+        <fileTransfer host="ats24.rmi.yaht.net" port="2222" rootFolder="/home/u61702" accessType="SFTP" password="df9fdfe6dfe9dffedfe9df9bdffd" username="u61702">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
